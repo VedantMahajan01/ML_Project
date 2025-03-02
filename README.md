@@ -1,6 +1,5 @@
 # Heart Disease Prediction using Machine Learning
 
-# Overview
 This project aims to predict the likelihood of heart disease in individuals based on medical 
 attributes using **Logistic Regression**. 
 The dataset is analyzed for insights, visualized for better understanding, 
