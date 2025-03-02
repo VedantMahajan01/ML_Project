@@ -31,9 +31,9 @@ and a machine learning model is trained for prediction.
 ---
 # Project Overview
 Heart Disease Prediction using Machine Learning
-•	Developed a predictive model using Logistic Regression to classify individuals as having heart disease or not, based on medical attributes.
-•	Performed data preprocessing, including handling missing values, feature selection, and dataset splitting for training and testing.
-•	Achieved an accuracy of 85.12% on training data and implemented a predictive system to analyze new patient data.
-•	Utilized Python, Pandas, NumPy, Scikit-learn, and Matplotlib for data analysis,data visualization, model training, and evaluation.
+- Developed a predictive model using Logistic Regression to classify individuals as having heart disease or not, based on medical attributes.
+- Performed data preprocessing, including handling missing values, feature selection, and dataset splitting for training and testing.
+- Achieved an accuracy of 85.12% on training data and implemented a predictive system to analyze new patient data.
+- Utilized Python, Pandas, NumPy, Scikit-learn, and Matplotlib for data analysis,data visualization, model training, and evaluation.
 
 
